@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @joaquinmoralest
+
+# Hi, I’m **Joaquin Morales**👋
 - 👀 I’m interested in Front-end and Movile Development
 - 🌱 I’m currently learning Javascript and React.js
 
