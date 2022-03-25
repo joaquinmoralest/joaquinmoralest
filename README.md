@@ -5,17 +5,20 @@
 
 👀 I’m interested in Front-end and Movile Development
 
-🌱 I’m currently learning Javascript and Angular
+🌱 I’m currently learning Javascript and React js
 
 ## Skills:
 - HTML
 - CSS
 - Javascript
+- React js
+- Material UI
+- Bootstrap
+- Sass
 - SQL
 - Visual Studio Code
 - Git
 - Ionic
-- Django
 - Python
 
 <!---
